@@ -1,9 +1,7 @@
 <h1>How's it going, I'm Quintez, an <a href="https://linkedin.com/in/quintezpearson">IT Professional and Cybersecurity Student
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Azure Computing and Networking](https://github.com/joshmadakorcc/azure-computing)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
