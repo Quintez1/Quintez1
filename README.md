@@ -1,6 +1,6 @@
 <h1>How's it going, I'm Quintez, an <a href="https://linkedin.com/in/quintezpearson">IT Professional and Cybersecurity Student
 
-<h2>👨‍💻 Information Technology Projects 👨‍💻:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
