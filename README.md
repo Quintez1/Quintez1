@@ -1,7 +1,8 @@
 <h1>How's it going, I'm Quintez, an <a href="https://linkedin.com/in/quintezpearson">IT Professional and Cybersecurity Student
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-  - [Azure Computing and Networking](https://github.com/joshmadakorcc/azure-computing)
+
+  - [Azure Computing and Networking](https://github.com/Quintez1/azure-computing-networking)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
