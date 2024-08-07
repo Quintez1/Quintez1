@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Azure Computing and Networking](https://github.com/Quintez1/azure-computing-networking)
+  - [Azure Computing and Networking](https://github.com/Quintez1/azure-compute-networking)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
