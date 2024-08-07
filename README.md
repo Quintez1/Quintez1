@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Azure Computing and Networking](https://github.com/Quintez1/azure-compute-networking)
-  - [osTicket: Set-up and Configuration](https://github/Quintez1/setup-config-osTicket)
+  - [osTicket: Set-up and Configuration](https://github.com/Quintez1/setup-config-osTicket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
