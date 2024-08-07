@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Azure Computing and Networking](https://github.com/Quintez1/azure-compute-networking)
+  - [Azure Virtual Private Networks](https://github.com/Quintez1/virtual-private-network)
   - [osTicket: Set-up and Configuration](https://github.com/Quintez1/setup-config-osTicket)
   - [Azure Virtual Private Networks](https://github.com/Quintez1/virtual-private-network)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
