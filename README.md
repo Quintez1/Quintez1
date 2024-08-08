@@ -6,7 +6,7 @@
   - [Azure Virtual Private Networks](https://github.com/Quintez1/virtual-private-network)
   - [Azure Active Directory within VMs](https://github.com/Quintez1/active-directory)
   - [osTicket: Set-up and Configuration](https://github.com/Quintez1/setup-config-osTicket)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Building Intuition for DNS (Domain Name Systems)](https://github.com/Quintez1/VNet-DNS)
 
 <h2>🤳Connect with me🤳:</h2>
 
