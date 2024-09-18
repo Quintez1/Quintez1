@@ -1,4 +1,4 @@
-<h1>How's it going, I'm Quintez, a <a href="https://linkedin.com/in/quintezpearson">Cloud Security Professional
+<h1>How's it going, I'm Quintez, a <a href="https://linkedin.com/in/quintezpearson">Cyber and Cloud Security Professional
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Azure Computing and Networking](https://github.com/Quintez1/azure-compute-networking)
